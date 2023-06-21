@@ -1,6 +1,7 @@
 import os
 import csv
 
+#Creating path to csv file
 budget_data = os.path.join("Resources", "budget_data.csv")
 
 #Intialising variables used in for loop
